@@ -29,22 +29,22 @@ A distributed handwritten digit recognition engine using Python multiprocessing 
 
 ---
 
-### 🎨 Frontend Development & UI Clones
+### 🎨 Frontend Engineering & Replications
 
 A collection of projects focusing on responsive design, RTL layout mastery, and pixel-perfect implementation of major platforms.
 
 #### 🛍️ [GolestanCo-Clone-with_reactjs](https://github.com/ramt11n/GolestanCo-Clone-with_reactjs)
-A React front-end project cloning the Golestan site.
+A React front-end project replicating the Golestan site architecture.
 * **Focus:** Full component implementation, RTL layout mastery, and advanced responsive engineering.
 * **Tech:** React.js, CSS.
 
 #### 🏷️ [GoldTag](https://github.com/ramt11n/GoldTag)
-A responsive front-end clone of Goldtag.net created for learning and practice.
+A responsive front-end replication of Goldtag.net created for learning and practice.
 * **Scope:** Includes 4 key pages: Main, Login, Sign Up, and Products.
 * **Tech:** JavaScript, HTML, CSS (Responsive).
 
 #### 🎬 [imd-b-Frontend-Clone](https://github.com/ramt11n/imd-b-Frontend-Clone)
-A front-end clone of IMDb’s main page.
+A front-end implementation of IMDb’s main page.
 * **Focus:** Responsive UI and movie data fetched from a fake API.
 * **Tech:** JavaScript, HTML, CSS.
 
@@ -74,5 +74,10 @@ Recreated Digikala’s main page using pure HTML & CSS.
 
 ### 🤝 Connect with Me
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/ramtin-neshatvar](https://www.linkedin.com/in/ramtin-neshatvar-185534263/))
+<div align="center">
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ramtin-neshatvar-185534263/)
+&nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ramtinneshat4@gmail.com)
+
+</div>
