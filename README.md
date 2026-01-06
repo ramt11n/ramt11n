@@ -11,6 +11,14 @@ I am a final-year Computer Engineering student with a strong technical foundatio
 
 ---
 
+### 🌐 Global Identity & Pronunciation
+For my international and local colleagues, here is my full name and variations in my native script:
+* **Full Name:** Ramtin Neshatvar Ghaleh (Persian: **رامتین نشاط ور قلعه**)
+* **Commonly Known As:** Ramtin Neshatvar (Persian: **رامتین نشاطور**) or Ramtin Neshat (Persian: **رامتین نشاط**)
+* **Alternative Spellings:** Ramtin Neshat-var, رامتین نشاط‌ور
+
+---
+
 ### 🧠 Systems Engineering & AI
 
 These projects demonstrate my ability to handle complex backend logic and algorithm design.
