@@ -58,7 +58,7 @@ Recreated Digikala’s main page using pure HTML & CSS.
 
 | Certification | Organization | Details |
 | :--- | :--- | :--- |
-| **React.js Development** | Tehran Institute of Technology (MFT) | **Score: 90** |
+| **React.js Development** | Tehran Institute of Technology (MFT) | **Score: 90/100** |
 | **Web Design Pack** | Tehran Institute of Technology (MFT) | 150 Hours, Score: 85/100 |
 
 ---
@@ -74,5 +74,5 @@ Recreated Digikala’s main page using pure HTML & CSS.
 
 ### 🤝 Connect with Me
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ramtin-neshatvar)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]([https://www.linkedin.com/in/ramtin-neshatvar](https://www.linkedin.com/in/ramtin-neshatvar-185534263/))
 [<img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:ramtinneshat4@gmail.com)
