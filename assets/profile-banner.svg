@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Ramtin Neshatvar — software, systems and practical AI</title>
+  <desc id="desc">A forest-green and mint portfolio banner with the RN monogram and a gently animated connection between interface, systems and AI. Motion stops when reduced motion is preferred.</desc>
+  <defs>
+    <linearGradient id="wash" x1="30" y1="0" x2="1170" y2="300" gradientUnits="userSpaceOnUse"><stop stop-color="#102c2d"/><stop offset="1" stop-color="#183d3b"/></linearGradient>
+    <linearGradient id="signal" x1="810" y1="100" x2="1090" y2="200" gradientUnits="userSpaceOnUse"><stop stop-color="#a8d2b6"/><stop offset="1" stop-color="#dcebcf"/></linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#8eb9a7" opacity=".16"/></pattern>
+  </defs>
+  <style>
+    text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}
+    .signal{stroke-dasharray:28 460;animation:flow 12s linear infinite}
+    @keyframes flow{from{stroke-dashoffset:488}to{stroke-dashoffset:0}}
+    @media(prefers-reduced-motion:reduce){.signal{animation:none;stroke-dasharray:none;opacity:.6}}
+  </style>
+  <rect width="1200" height="300" rx="22" fill="url(#wash)"/>
+  <rect x="736" width="464" height="300" rx="22" fill="url(#dots)"/>
+  <path d="M32 299H1168" stroke="#78aa91" stroke-opacity=".35"/>
+  <g transform="translate(48 33) scale(.72)" stroke="#dbebe4" stroke-width="4.4" stroke-linecap="square" stroke-linejoin="round">
+    <path d="M5 34V7H16.5C22.2 7 25.5 9.6 25.5 14.5S22.2 22 16.5 22H5M16 22L26.5 34"/>
+    <path d="M36 34V7L57 34V7"/><path d="M36 7L57 34" stroke="#91c5a3"/>
+  </g>
+  <text x="110" y="56" fill="#bfd6ca" font-size="14" font-weight="650" letter-spacing="2.5">RAMTIN NESHATVAR</text>
+  <text x="48" y="143" fill="#fffefa" font-size="55" font-weight="750" letter-spacing="-2">Software. Systems.</text>
+  <text x="48" y="208" fill="#b7d6bd" font-size="55" font-weight="750" letter-spacing="-2">Practical AI.</text>
+  <text x="51" y="254" fill="#bfd0c8" font-size="17">From an idea to something you can actually use.</text>
+  <g stroke="#7fa996" stroke-width="1.5">
+    <path d="M838 93V145C838 159 848 169 862 169H1017C1031 169 1041 179 1041 193V216" opacity=".5"/>
+    <path d="M838 93V145C838 159 848 169 862 169H1017C1031 169 1041 179 1041 193V216" stroke="url(#signal)" stroke-width="3" class="signal"/>
+  </g>
+  <g transform="translate(790 58)"><rect width="96" height="69" rx="14" fill="#214947" stroke="#597c6c"/><path d="M17 23H79M17 33H79" stroke="#597c6c"/><rect x="18" y="43" width="25" height="12" rx="3" fill="#a8cfb4"/><path d="M52 47H77M52 53H67" stroke="#a8cfb4" stroke-linecap="round"/></g>
+  <g transform="translate(929 133)"><rect width="70" height="70" rx="17" fill="#214947" stroke="#597c6c"/><rect x="23" y="23" width="24" height="24" rx="6" stroke="#bdd6be" stroke-width="2"/><path d="M28 13V20M42 13V20M28 50V57M42 50V57M13 28H20M13 42H20M50 28H57M50 42H57" stroke="#bdd6be" stroke-width="2" stroke-linecap="round"/></g>
+  <g transform="translate(1012 211)"><rect width="60" height="40" rx="10" fill="#b7d6bd"/><path d="M17 20L25 27L42 12" stroke="#183d3b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+  <circle cx="1117" cy="65" r="4" fill="#a8cfb4"/><circle cx="1140" cy="65" r="4" fill="#a8cfb4" fill-opacity=".4"/><circle cx="1163" cy="65" r="4" fill="#a8cfb4" fill-opacity=".2"/>
+</svg>
